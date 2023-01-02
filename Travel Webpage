@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+     <style>
+            body {
+                background-color : black;
+                color: white;
+                text-align: center;
+            }
+            h1, h2, h3, h4, h5, h6 {
+                color: brown;
+                font-family: monospace;
+                font-size: 26px;
+            }
+            p {
+                font-family: monospace;
+                font-size: 14px;
+            }
+            Mecca {
+                color: yellow;
+            }
+        </style>
+    
+        <h1>Travel to .... Mecca!</h1>
+        
+        <p>We all know, <b>Mecca</b> is the holiest city in Islam.
+        Muslims, around the world, wish to visit this place atleast once in their life. Huge number of people gather to perform <i>Hajj</i> and <i>Umrah</i>.</p> 
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg" width="495"><br>
+        
+    <a href = "https://en.wikipedia.org/wiki/Kaaba">The Kaaba</a>
+    
+    <h2>Places to visit...</h2>
+    
+    <h3>1) Masjid al-haram</h3>
+        <p>Masjid al-haram is the mosque that surrounds the Kaaba. Pilgrims circumbulate kaaba being on this mosque. The mosque also includes the <u>Black-stone</u>, <u>Zamzam well</u>, <u>Maqam Ibrahim</u> and the hills of <u>Safa and Marwah</u>.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Al-Haram_mosque_-_Flickr_-_Al_Jazeera_English.jpg" width="490">
+        
+        <a href= "https://en.wikipedia.org/wiki/Masjid_al-Haram">Masjid al-Haram</a>
+        
+        <h3>2) Safa & Marwah</h3>
+        <p>Safa and Marwah are two small hills on the either sides of Masjid al-Haram. Muslims travel back and forth seven times. This site is special because of its connection with Prophet Ishmaeel and his mother Hajar. The two mountains also abode the famous zamzam well.</p>
+        <img src= "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sa%27yee_To_Go.jpg" width="450"> <a href ="https://en.wikipedia.org/wiki/Safa_and_Marwa#/media/File:Sa'yee_To_Go.jpg"> The first walkway of the Mas'aa leading from Safa to Marwa</a >
+    <h3>3) Mina</h3>
+    <p>It is a valley and neighborhood located in the Makkah Province of Saudi Arabia, 8 km southeast of the city of Mecca. Pilgrims stay nights there to mark an important part of <i>hajj</i> and uphold the sunnah of Prophet Muhammmad SAW.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Mina_-_panoramio_%283%29.jpg" width="450">
+    <a href="https://en.wikipedia.org/wiki/Mina,_Saudi_Arabia#/media/File:Mina_-_panoramio_(3).jpg">Panaromic view of Mina</a>
+    <h3>5) Museum</h3>
+    <p>Mecca museum is a historical museum that is a 10-15 minute drive away from Haram.It houses history galleries, a gift shop, collection storage, a café, a library, an auditorium, and exhibits.</p>
+    <a href="https://islam-today.ru/files/news/part_13/135801/637257-INNERRESIZED600-700-179931-INNERRESIZED600-600-1_1280px-View_of_Museum_of_Islamic_Art_Qatar_from_above.jpg">An aerial view of Mecca Museum</a>
+    <h3>6) Malls & restaurants</h3>
+    <p>There are several luxury malls and restaurants in the proximity of the <i>Haramain-Shareefain</i>. Some of them can be checked out by logging into the following link</p>
+    <a href="https://www.tripadvisor.in/RestaurantsNear-g293993-d3664949-Makkah_Mall-Mecca_Makkah_Province.html">Top 10 restaurants near makkah mall</a>
+    <p> So yeah that's pretty much what we hope to visit and explore in the city of <b>Mecca</b>...</p>
+    
+       
+    </body>
+</html>
